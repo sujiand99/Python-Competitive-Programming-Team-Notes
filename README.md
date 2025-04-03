@@ -1,1 +1,3 @@
-# Python-Competitive-Programming-Team-Notes
+## Python-Competitive-Programming-Team-Notes
+
+## Contents
